@@ -1,0 +1,21 @@
+BASE DE DATOS:
+Este es mi fichero para la asignatura de bases de datos(BDD),
+es un codigo sql en el cual creo una base de datos de manera manual,
+es decir copiando codigo, en este fichero la informacion que aparece es la siguiente:
+Las distintas tablas de asignaturas, tipo de estudio los alumnos, las matriculas y
+los distintos centros en los que se puedre estudiar
+también aparecen los datos de las distintas tablas anteriormente menciconadas con todos los datos que se podria pedir tanto para 
+buscar un centro saber las notas de los alumnos o buscar cierto alumno para saber su informacion
+
+ENTORNOS:
+Este ejrcicio es de la asignatura de entornos y lo que hay es un diagrama de flujo en el que se representa la comparación
+de 2 numeros y cuando sean iguales el programa se finaliza
+
+PROGRAMACION
+Este programa en java es de la asignatura de programación en la que se ponen los distintos atributos que se ven abajo
+para luego en otro archivo poner la marca, modelo, cilindrada y color de 2 coches distintos.
+
+SISTEMAS
+Este es un programa hecho en bash en el que se usará para la gestion de ficheros
+tanto para modificarlos como para añadirlos o borrarlos
+gestionar permisos de los distintos ficheros y hacer que ciertos usuarios con distintos permisos puedan acceder o no a ellos
